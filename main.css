@@ -75,7 +75,7 @@ nav {
     padding: 20px;
     margin: 0;
     padding-bottom: -0px;
-    width: 400px;
+    width: 340px;
     margin-left: -70px;
   }
 }
@@ -164,7 +164,7 @@ nav {
     width: 60px;
     height: 65px;
     position: relative;
-    margin-left: 10px;
+    margin-left: 50px;
     margin-top: -15px;
   }
 }
@@ -240,4 +240,3 @@ footer {
   color: white;
   text-decoration: none;
 }
-
